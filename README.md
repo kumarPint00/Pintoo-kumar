@@ -1,5 +1,5 @@
 # AboutMe
-brief description about me
+
 Hi 👋 My name is Pintoo kumar
 =============================
 
